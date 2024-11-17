@@ -7,11 +7,15 @@
         "mezzio",
         "laminas-fliter"
     ],
+    "homepage": "https://github.com/orgs/axleus/discussions",
+    "support": {
+        "issues": "https://github.com/axleus/axleus-filter/issues",
+        "chat": "https://discord.gg/9TxQ74EPsG"
+    },
     "authors": [
         {
             "name": "Joey Smith",
-            "email": "jsmith@webinertia.net",
-            "homepage": "https://github.com/axleus/axleus-filter/discussions"
+            "email": "jsmith@webinertia.net"
         }
     ],
     "suggest": {
